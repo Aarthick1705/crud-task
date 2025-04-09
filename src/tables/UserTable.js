@@ -31,8 +31,6 @@ const UserTable =(props)=>(
         )
 
         }
-      
-      
     </tbody>
   </table>
 );
